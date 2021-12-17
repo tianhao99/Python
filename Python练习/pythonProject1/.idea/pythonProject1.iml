@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv/novel" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/video" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/视频大合集" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/selenium练习/票房数据" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
